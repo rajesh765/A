@@ -3,5 +3,10 @@ adeqe
 br1
 up
 1
+<<<<<<< HEAD
 2
 3
+=======
+
+from branch
+>>>>>>> Branch_179daeaadea773c7b0ab3bcabcc13e5a19d96dd8
